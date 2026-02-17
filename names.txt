@@ -1,2 +1,3 @@
+role,NetID,LastName,FirstName
 boss,cewisniewski,Wisniewski,Claire
 employee,diazmoreno,Diaz Moreno,Valeria
